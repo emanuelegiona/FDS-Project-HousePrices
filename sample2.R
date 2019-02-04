@@ -13,6 +13,7 @@ require(kernlab)
 library(caret)
 
 library(e1071)
+library(psych)
 
 source("featureEngineering.R")
 source("modelTesting.R")
