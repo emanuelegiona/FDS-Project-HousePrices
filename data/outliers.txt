@@ -1,9 +1,0 @@
-The following outliers could be removed in order to help the performance of our model:
-- 2 houses with LotFrontage value greater than 200 feet
-- 4 houses with LotArea greater than 100000 squared feet
-- 4 houses with SalePrice greater than 600000 dollars
-- 1 house with NoSeWa utilities
-- 5 houses with 3 fireplaces
-- 1 house with the tennis court, 2 houses with a second garage, 1 house with other features
-- 2 houses with MiscVal greater than 5000 dollars (these same houses are removed if the previous outliers are removed)
-
